@@ -66,7 +66,7 @@ python-dotenv==0.10.3
 python-resize-image==1.1.19
 python-slugify==4.0.0
 pytz==2019.3
-PyYAML==5.1.2
+PyYAML==5.4
 pyzmq==18.1.0
 Quandl==3.4.8
 ray==0.7.3
